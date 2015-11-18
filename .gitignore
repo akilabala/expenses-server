@@ -1,0 +1,14 @@
+node_modules/
+bower_components/
+src/overrides/
+reports/
+.sass-cache/
+.tmp/
+.idea/
+.sonar/
+local.env.js
+npm-debug.log
+.DS_Store
+*.zip
+*.sublime-project
+*.sublime-workspace
